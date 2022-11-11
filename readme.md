@@ -11,4 +11,4 @@ The only resource I used for this application was the official react [documentat
 
 ## Deployed: 
 
-Click [here](www.google.com) to see it.  
+Click [here](https://mjh1985codeman.github.io/REACT-us-time-zones/) to see it.  
