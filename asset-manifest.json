@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/REACT-us-time-zones/static/css/main.303d563b.css",
+    "main.js": "/REACT-us-time-zones/static/js/main.7cd24f8c.js",
+    "static/js/787.a877f5de.chunk.js": "/REACT-us-time-zones/static/js/787.a877f5de.chunk.js",
+    "index.html": "/REACT-us-time-zones/index.html",
+    "main.303d563b.css.map": "/REACT-us-time-zones/static/css/main.303d563b.css.map",
+    "main.7cd24f8c.js.map": "/REACT-us-time-zones/static/js/main.7cd24f8c.js.map",
+    "787.a877f5de.chunk.js.map": "/REACT-us-time-zones/static/js/787.a877f5de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.303d563b.css",
+    "static/js/main.7cd24f8c.js"
+  ]
+}
